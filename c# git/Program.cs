@@ -11,6 +11,7 @@ namespace c__git
         static void Main(string[] args)
         {
             Console.WriteLine("hhh");
+            Console.WriteLine("hhh");
         }
     }
 }
